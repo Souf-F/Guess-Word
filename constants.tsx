@@ -1,0 +1,22 @@
+
+export const WORD_BANK = [
+  "DEVELOPER",
+  "PROGRAMMING",
+  "PYTHON",
+  "JAVASCRIPT",
+  "ALGORITHM",
+  "DATA",
+  "STRUCTURE",
+  "FUNCTION",
+  "VARIABLE",
+  "OBJECT",
+  "CYBERNETIC",
+  "DYSTOPIA",
+  "HOLOGRAM",
+  "FIREWALL",
+  "PROTOCOL",
+  "MAINFRAME",
+  "INTERFACE"
+];
+
+export const MAX_ATTEMPTS = 6;
